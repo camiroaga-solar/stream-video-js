@@ -1,0 +1,3 @@
+[submodule "packages/react-native-callkeep"]
+	path = packages/react-native-callkeep
+	url = https://github.com/GetStream/react-native-callkeep
